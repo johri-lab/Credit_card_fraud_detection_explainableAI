@@ -5,7 +5,7 @@ This repository contains the code for the Applied Machine Learning project at Co
 
 - **Fraud_Classification_Project.ipynb**: Jupyter notebook containing the main code for fraud classification.
 - **Ranking DLRM embedding model.ipynb**: Jupyter notebook focusing on the ranking of the DLRM embedding model.
-- **fraud_heatmap.html**: HTML file displaying a heatmap for fraud visualization.
+- **docs/fraud_heatmap.html**: HTML file displaying a heatmap for fraud visualization.
 - **requirements.txt**: Text file listing the required Python packages for running the code.
 
 ## Usage

@@ -1,7 +1,25 @@
-# Credit Fraud classification
-This is the project for the Applied Machine Learning at Columbia, which uses the approach of ExplainableAI for making inferences and predictive analysis using embedding and AutoML approach.
+# Transaction Fraud Classification
+This repository contains the code for the Applied Machine Learning project at Columbia University. The project focuses on fraud detection in transactions using Explainable AI techniques, leveraging embedding and AutoML approaches.
 
-Things to keep in Mind:-
-1. You can use requirements.txt if you want the exact packages that we might use.
-2. You can put the csv files into .gitignore so that you don't push the large csv's everytime.
-3. Try to work on a seperate branch and merge into the main one, while taking a pull from the main one to maintain the latest code.
+## Files
+
+- **Fraud_Classification_Project.ipynb**: Jupyter notebook containing the main code for fraud classification.
+- **Ranking DLRM embedding model.ipynb**: Jupyter notebook focusing on the ranking of the DLRM embedding model.
+- **fraud_heatmap.html**: HTML file displaying a heatmap for fraud visualization.
+- **requirements.txt**: Text file listing the required Python packages for running the code.
+
+## Usage
+
+To use this project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/johri-lab/Credit_card_fraud_detection_explainableAI/`
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Open and run the Jupyter notebooks (`Fraud_Classification_Project.ipynb` and `Ranking DLRM embedding model.ipynb`) to explore the code and results.
+4. View the fraud visualization heatmap by opening the `fraud_heatmap.html` file in a web browser.
+
+## Contributors
+
+- Shikhar Johri @johri-lab
+- Demetrios Fassois @dimitrisfassois 
+- Tushar Prasad @tusharprasad512
+- yaoxie220 @yaoxie220
